@@ -109,3 +109,14 @@ section .btn2 {
     100%{content: "JR COLLEGE";}
 
 }
+
+.right {
+    position: absolute;
+    color: #00b894;
+    text-decoration: none;
+    margin-bottom: 0%;
+}
+
+.imgcpyrt {
+    text-align: right;
+}
